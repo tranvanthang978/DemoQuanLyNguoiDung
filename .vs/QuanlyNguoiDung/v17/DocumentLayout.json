@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QuanlyNguoiDung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|d:\\quanlynguoidung\\quanlynguoidung\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|solutionrelative:quanlynguoidung\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|d:\\quanlynguoidung\\quanlynguoidung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|solutionrelative:quanlynguoidung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|d:\\quanlynguoidung\\quanlynguoidung\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|solutionrelative:quanlynguoidung\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|d:\\quanlynguoidung\\quanlynguoidung\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|solutionrelative:quanlynguoidung\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|d:\\quanlynguoidung\\quanlynguoidung\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|solutionrelative:quanlynguoidung\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|d:\\quanlynguoidung\\quanlynguoidung\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|solutionrelative:quanlynguoidung\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|d:\\quanlynguoidung\\quanlynguoidung\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|solutionrelative:quanlynguoidung\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|d:\\quanlynguoidung\\quanlynguoidung\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|solutionrelative:quanlynguoidung\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|d:\\quanlynguoidung\\quanlynguoidung\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|solutionrelative:quanlynguoidung\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|d:\\quanlynguoidung\\quanlynguoidung\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|solutionrelative:quanlynguoidung\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Migrations\\20260306113135_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanlyNguoiDung\\Migrations\\20260306113135_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|d:\\quanlynguoidung\\quanlynguoidung\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|solutionrelative:quanlynguoidung\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|d:\\quanlynguoidung\\quanlynguoidung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CB8C3AD-E361-4035-AE27-460A5611BDBB}|QuanlyNguoiDung\\QuanlyNguoiDung.csproj|solutionrelative:quanlynguoidung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QuanlyNguoiDung\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "QuanlyNguoiDung\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-06T11:35:46.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "QuanlyNguoiDung\\Views\\Users\\Create.cshtml",
+              "ToolTip": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "QuanlyNguoiDung\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-06T11:35:02.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QuanlyNguoiDung\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QuanlyNguoiDung\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-06T11:33:10.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "QuanlyNguoiDung\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "QuanlyNguoiDung\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-06T11:33:09.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanlyNguoiDung\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "QuanlyNguoiDung\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-06T11:33:06.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Program.cs",
+              "RelativeDocumentMoniker": "QuanlyNguoiDung\\Program.cs",
+              "ToolTip": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Program.cs",
+              "RelativeToolTip": "QuanlyNguoiDung\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:21:00.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "QuanlyNguoiDung\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "QuanlyNguoiDung\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:26:34.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "QuanlyNguoiDung\\Views\\Users\\Details.cshtml",
+              "ToolTip": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "QuanlyNguoiDung\\Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-06T11:36:37.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QuanlyNguoiDung\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "QuanlyNguoiDung\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-06T11:37:04.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "QuanlyNguoiDung\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "QuanlyNguoiDung\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:32:49.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260306113135_InitialCreate.cs",
+              "DocumentMoniker": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Migrations\\20260306113135_InitialCreate.cs",
+              "RelativeDocumentMoniker": "QuanlyNguoiDung\\Migrations\\20260306113135_InitialCreate.cs",
+              "ToolTip": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Migrations\\20260306113135_InitialCreate.cs",
+              "RelativeToolTip": "QuanlyNguoiDung\\Migrations\\20260306113135_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:31:35.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QuanlyNguoiDung\\Models\\User.cs",
+              "ToolTip": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\Models\\User.cs",
+              "RelativeToolTip": "QuanlyNguoiDung\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:26:13.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Program.cs",
+              "RelativeDocumentMoniker": "..\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Program.cs",
+              "ToolTip": "D:\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Program.cs",
+              "RelativeToolTip": "..\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:21:40.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\appsettings.json",
+              "RelativeDocumentMoniker": "QuanlyNguoiDung\\appsettings.json",
+              "ToolTip": "D:\\QuanlyNguoiDung\\QuanlyNguoiDung\\appsettings.json",
+              "RelativeToolTip": "QuanlyNguoiDung\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-06T11:21:08.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:18:04.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Models\\User.cs",
+              "ToolTip": "D:\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Models\\User.cs",
+              "RelativeToolTip": "..\\trung_tam\\QuanLyNguoiDung\\QuanLyNguoiDung\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:17:06.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
